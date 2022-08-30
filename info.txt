@@ -20,4 +20,7 @@ Commit #10 during squash activity
 
 Commit #11 during squash activity
 
+Commit #12 during squash activity
+
+
 
